@@ -1,0 +1,2 @@
+# slidein_element
+Today we will learn together how make a div/image came from the left side to right side, how make a div came from the right side to left side ( slide in element | div | image from left to right and slide in element | div | image from right to left) in CSS HTML JAVASCRIPT. Fade in element from left to right, Fade in element from right to left. Hide horizontal scrollbar in HTML CSS. If you have any questions please ask me in the comments. Thanks for watching! https://youtu.be/mA7zhVHLKW0
